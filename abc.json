@@ -1,0 +1,39 @@
+{
+    "object": "whatsapp_business_account",
+    "entry": [
+        {
+            "id": "104985232685261",
+            "changes": [
+                {
+                    "value": {
+                        "messaging_product": "whatsapp",
+                        "metadata": {
+                            "display_phone_number": "15550671875",
+                            "phone_number_id": "110257458819087"
+                        },
+                        "contacts": [
+                            {
+                                "profile": {
+                                    "name": "Sunny Ramani"
+                                },
+                                "wa_id": "918080648674"
+                            }
+                        ],
+                        "messages": [
+                            {
+                                "from": "918080648674",
+                                "id": "wamid.HBgMOTE4MDgwNjQ4Njc0FQIAEhggREU1ODAwNzI3NENGMjI5MjRDMzlEMjIwMkIxNDUzNTEA",
+                                "timestamp": "1690376583",
+                                "text": {
+                                    "body": "B"
+                                },
+                                "type": "text"
+                            }
+                        ]
+                    },
+                    "field": "messages"
+                }
+            ]
+        }
+    ]
+}
